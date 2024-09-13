@@ -42,7 +42,7 @@
 ### 2. GET SESSION_ID BY TEAMS SASAKI
 
 ### PAIRING CODE.
-<a href='https://damon-salvatore-session.onrender.com/' target="_blank"><img alt='https://telegra.ph/file/6deb3281f66b574e3264e.jpg' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://damon-salvatore-session.onrender.com/' target="_blank"><img alt='Code paire' src='https://img.shields.io/badge/PAIRING-CODE-Red?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 ---
